@@ -4,4 +4,4 @@
 
 - Knowledge on C#, C, Java, JS, SQL, assembly language...
 
-- Contact via Discord: poleStar#1745.
+- Contact via Discord: _polestar
